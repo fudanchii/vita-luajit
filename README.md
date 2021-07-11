@@ -7,6 +7,9 @@ See original REAMDE.orig for details.
 ## Build deps
 
 You can install build dependencies with [vdpm](https://github.com/vitasdk/vdpm). [vita-libdl](https://github.com/hyln9/vita-libdl) is required for FFI support.
+```
+$ vdpm vita-libdl
+```
 
 ## Build LuaJIT
 
